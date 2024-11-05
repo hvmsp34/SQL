@@ -1,2 +1,2 @@
-В качестве БД использовал PostgreSQL
-[Перейти к 1 заданию](https://github.com/hvmsp34/CRUD.git)
+- В качестве БД использовал PostgreSQL
+- [Ссылка на 1 задание](https://github.com/hvmsp34/CRUD.git)
